@@ -77,21 +77,19 @@ h1 span {
 		width: 80%;
 	}
 	.img {
+		flex-basis: 50%;
 		width: 100%;
 		border-top-left-radius: 0;
 		border-top-right-radius: 10px;
 		border-bottom-right-radius: 10px;
 	}
-
 	.details {
+		flex-basis: 50%;
 		text-align: left;
-		padding: 40px 50px 40px 40px;
-	}
-	.details > p {
-		padding: 40px 60px 0 0;
+		justify-content: space-evenly;
+		padding-right: 50px;
 	}
 	.stats {
-		padding: 50px 50px 0 0;
 		width: 100%;
 		display: flex;
 		justify-content: space-between;
