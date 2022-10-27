@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentors](https://your-solution-url.com)
+- Solution URL: [Frontend Mentors](https://www.frontendmentor.io/solutions/responsive-mobile-first-design-using-htmland-css-I9D00PKn-6)
 - Live Site URL: [Live website](https://muralidharabhat.me/stats-preview-card-component-main/)
 
 ## My process
